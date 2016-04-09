@@ -1,0 +1,10 @@
+Bnp 43.12 0.12
+Engie 13.52 0.31
+Orange 14.78 0.60
+SocieteGenerale 31.36 0.21
+AirLiquide 95.24 0.75
+Carrefour 23.02 0.11
+LVMH 146.36 0.52
+SchneiderElectric 52.98 1.05
+AXA 19.06 1.17
+Arcelormittal 4.37 -0.78
